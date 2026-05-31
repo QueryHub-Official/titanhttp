@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: titanhttp
+Version: 1.2.0
+Summary: Pure Python HTTP Arsenal — zero dependencies, modular architecture
+Author: <!> Rapp_Develop <!>
+Author-email: "<!> RappUyy <!>" <rappoffc@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/RappUyy/titanhttp
+Project-URL: Documentation, https://github.com/RappUyy/titanhttp#readme
+Project-URL: Repository, https://github.com/RappUyy/titanhttp.git
+Project-URL: Issues, https://github.com/RappUyy/titanhttp/issues
+Keywords: http,client,pure-python,websocket,http2,graphql,http-tools,tools,signal-tools,rappuy,rapp,rappdev
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-python
